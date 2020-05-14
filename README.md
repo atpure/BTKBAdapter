@@ -29,7 +29,7 @@ Facebook: https://www.facebook.com/IB.Nye
 
 ## arduino Library
 
-USBHost
+https://github.com/felis/USB_Host_Shield_2.0
 
 
 
